@@ -1,3 +1,4 @@
+Watch live:https://smile-nine.vercel.app/
 # 🦷 Dentist Website (TypeScript)
 
 A modern, responsive dentist clinic website built using **TypeScript** to ensure type safety, scalability, and maintainable code. The website is designed to represent a professional dental clinic with a clean UI, smooth user experience, and healthcare-focused design.
